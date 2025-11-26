@@ -160,7 +160,7 @@ section > * {
 }
 
 #project-evidence img {
-  width: 350px;
+  width: 250px;
   height: auto;
   margin-right: 10px;
   vertical-align: middle;
@@ -229,3 +229,4 @@ section > * {
   justify-content: center;
   text-align: center;
 }
+
