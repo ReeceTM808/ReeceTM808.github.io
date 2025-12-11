@@ -137,7 +137,7 @@ section > * {
 }
 
 .resume-images img {
-  max-width: 55%;
+  max-width: 65%;
   height: auto;
   border: 2px solid #ccc;
   border-radius: 4px;
@@ -229,6 +229,7 @@ section > * {
   justify-content: center;
   text-align: center;
 }
+
 
 
 
