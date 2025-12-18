@@ -192,6 +192,13 @@ section > * {
   height: auto;
 }
 
+#classroom-experiences img {
+  width: 350px;
+  height: auto;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
 #sports {
   display: flex;
   flex-wrap: wrap;
@@ -229,6 +236,7 @@ section > * {
   justify-content: center;
   text-align: center;
 }
+
 
 
 
